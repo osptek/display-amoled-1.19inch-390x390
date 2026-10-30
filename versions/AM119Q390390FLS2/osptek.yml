@@ -1,0 +1,10 @@
+id: AM119Q390390FLS2
+category: displays
+size: "1.19"
+panel: amoled
+resolution: 390x390
+interface: [qspi]
+driver: CO5300
+touch: null
+outline: 37.65 x 37.65 x 2.41 mm
+active_area: "Φ30.42 mm"
